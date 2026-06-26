@@ -1,0 +1,6 @@
+{
+  "name": "APLIKASI MODUL AJAR DEEP LEARNING UPTD SPF SDN GAYAM KIDUL 2",
+  "description": "Aplikasi penyusunan modul ajar, soal latihan interaktif, dan LKPD berbasis kecerdasan buatan untuk UPTD SPF SDN Gayam Kidul 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
